@@ -1,2 +1,2 @@
 # NLW-experts
-Trabalho de quis do evento NLW Expert
+Trabalho de quiz do evento NLW Expert
